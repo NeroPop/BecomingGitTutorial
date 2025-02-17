@@ -31,34 +31,18 @@ having a sophisticated charm
  devil-may-care
 marked by a carefree unconventionality or disreputableness
  emblazon
-decorate with heraldic arms
- eudaemonia
-a contented state of being happy and healthy and prosperous
- extremum
-the point located farthest from the middle of something
- exultant
-joyful and proud especially because of triumph or success
- featherbrained
-lacking seriousness; given to frivolity
- felicity
-pleasing and appropriate manner or style
- fiddle-faddle
-trivial nonsense
- gabble
-speak (about unimportant matters) rapidly and incessantly
- gallant
-having or displaying great dignity or nobility
- gilt
-having the deep slightly brownish color of gold
- gleeful
-full of high-spirited delight
- halcyon
-a mythical bird said to breed at the winter solstice
- happy-go-lucky
-cheerfully irresponsible
- heyday
-the period of greatest prosperity or productivity
- hotheaded
+ twaddle
+pretentious or silly talk or writing
+ vividness
+interest and variety and intensity
+ wearisome
+so lacking in interest as to cause mental fatigue
+ whimsical
+determined by chance or impulse rather than by necessity
+ whimsy
+an odd or fanciful or capricious idea
+ zippy
+quick and energetic
 characterized by undue haste and lack of thought or deliberation
  indefinite quantity
 an estimated quantity
